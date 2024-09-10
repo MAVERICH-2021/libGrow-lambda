@@ -10,3 +10,6 @@ https://github.com/aws/aws-lambda-go
 make build-zip
 ```
 
+- [ ] next step: run make file in Ubuntu system
+- [ ] add config parameter in lambda configuration
+
