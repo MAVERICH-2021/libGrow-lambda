@@ -4,8 +4,8 @@ import (
 	"encoding/base64"
 	"fmt"
 	"github.com/aws/aws-sdk-go/service/s3"
-	"go-lambda/internal/file"
 	"io"
+	"libgrow.com/app/internal/file"
 )
 
 type awsS3UseCase struct {
